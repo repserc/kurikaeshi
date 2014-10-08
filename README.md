@@ -1,5 +1,6 @@
 【繰り返しを使った問題】
 ==========
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/repserc/kurikaeshi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ※必要に応じて変数を設定してください。ファイル名や変数名は各自で任意につけてください  
 
